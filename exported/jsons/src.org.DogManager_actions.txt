@@ -1,0 +1,11 @@
+===
+insert-node
+---
+QualifiedName: dog.magicNumber [341,356]
+to
+Assignment [368,386]
+at 2moved to file: src/org/animals/Dog.javamoved to file: src/org/animals/Dog.javamoved to file: src/org/animals/Dog.javamoved to file: src/org/animals/Dog.javamoved to file: src/org/animals/Dog.javamoved to file: src/org/animals/Dog.java===
+delete-node
+---
+SimpleName: magicNumber [375,386]
+===

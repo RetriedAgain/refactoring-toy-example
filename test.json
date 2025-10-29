@@ -1,0 +1,15 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/danilofes/refactoring-toy-example.git",
+	"sha1": "16be1426aeb34352ba5d97811f3a721b11e3ae00",
+	"url": "https://github.com/danilofes/refactoring-toy-example/commit/16be1426aeb34352ba5d97811f3a721b11e3ae00",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/danilofes/refactoring-toy-example.git",
+	"sha1": "c946700398fc43a437d124f027a9bd3ba25bcafc",
+	"url": "https://github.com/danilofes/refactoring-toy-example/commit/c946700398fc43a437d124f027a9bd3ba25bcafc",
+	"refactorings": []
+}]
+}

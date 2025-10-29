@@ -1,0 +1,15 @@
+{
+  "diffInfos" : [ {
+    "srcPath" : "src/org/DogManager.java",
+    "dstPath" : "src/org/DogManager.java",
+    "id" : 0
+  }, {
+    "srcPath" : "src/org/animals/Dog.java",
+    "dstPath" : "src/org/animals/Dog.java",
+    "id" : 1
+  }, {
+    "srcPath" : "src/org/DogManager.java",
+    "dstPath" : "src/org/animals/Dog.java",
+    "id" : 2
+  } ]
+}
